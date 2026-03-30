@@ -6,7 +6,7 @@ Breve descrição do que o seu projeto faz.
 
 ## :technologist: Membros da equipe
 
-Matrícula, nome e curso dos participantes.
+565656, Engenharia de Software, Maria Beatriz Ribeiro de Castro.
 
 ## :bulb: Objetivo Geral
 Descrever o objetivo de geral do projeto
