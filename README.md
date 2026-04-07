@@ -1,26 +1,24 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AR7CADm8)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23345303)
-# :checkered_flag: Site de Camisas Personalisadas.
+# :checkered_flag: Editor de Ficha.
 
-Esse projeto será uma aplicação web de um site de personalização de camisetas, bonés ou material estampado. O usuário poderá encomendar a camiseta e escolher tamanho, cor e estampas. O arquivo será enviado para o cliente, dono dessa empresa de estamparia, e ele poderá enviar a camiseta, boné ou material estampado.
+O sistema deve criar e permitir a edição de uma ficha de rpg de um sistema que foi criado recentemente.
 
 ## :technologist: Membros da equipe
 
 565656, Engenharia de Software, Maria Beatriz Ribeiro de Castro.
 
 ## :bulb: Objetivo Geral
-Criar um site que permita ao usuário personalisar e encomendar uma camiseta, boné ou material estampado.
+Auxiliar o cliente com o uso das fichas dos players do rpg que ele está criando, junto ao sistema que ele fez, para que ele possa transmitir a sessão.
 
 ## :eyes: Público-Alvo
-Pessoas que buscam camisas personalizadas, como em formaturas de colégio ou camisas de times pequenos.
+Jogadores de rpg.
 
 ## :star2: Impacto Esperado
-Melhorar o atendimento que o cliente tem, visto que tudo é feito por via Whatsapp.
-
+Criar uma ficha interativa que ajude o cliente.
 
 ## :triangular_flag_on_post:	 Principais funcionalidades da aplicação
-
-Personalizar estampa no material, personalizar estampa na camisa ou boné, rastrear produto. 
+Criar um personagem, administrar personagens, ter campos editaveis, incluindo saude, inventário, etc.
 
 ---
 
