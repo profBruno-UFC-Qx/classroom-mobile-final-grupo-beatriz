@@ -4,6 +4,9 @@
 
 O sistema deve criar e permitir a edição de uma ficha de rpg de um sistema que foi criado recentemente.
 
+Link do repositório do trabalho:
+https://github.com/Beeatriz-Castro/TodoList
+
 ## :technologist: Membros da equipe
 
 565656, Engenharia de Software, Maria Beatriz Ribeiro de Castro.
